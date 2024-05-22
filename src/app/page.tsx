@@ -1,7 +1,5 @@
 import { BackgroundBoxesDemo } from "@/components/BackgroundBoxesDemo";
-import HeroSection from "@/components/HeroSection";
 import { Movingcard } from "@/components/Movingcard";
-import {TracingBeamDemo} from "@/components/TracingBeamDemo"
 
 
 export default function Home() {
