@@ -12,3 +12,10 @@ function SkillPage() {
 }
 
 export default SkillPage;
+
+export function generateMetadata({}){
+  return{
+    title:"Contect Nirav Mathukiya",
+    description : "a Beautiful signup form by Nirav Mathukiya"
+  }
+}
