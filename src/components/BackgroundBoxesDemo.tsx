@@ -11,10 +11,10 @@ export function BackgroundBoxesDemo() {
       <Boxes />
       <h1
         className={cn(
-          "md:text-4xl text-xl text-white relative z-20 text-center leading-3"
+          "md:text-4xl text-xl text-white relative z-20 text-center leading-3 sm:text-sm "
         )}
       >
-        Master in Frontend in 100 Days With <br></br>Nirav Mathukiya
+        Master in Frontend in 100 Days With <br /> <br  className="py-2"></br>Nirav Mathukiya
       </h1>
       {/* <p className="text-center mt-2 text-neutral-300 relative z-20">
         A seasoned frontend developer with two years of experience adept at
