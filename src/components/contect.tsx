@@ -2,6 +2,7 @@
 import React from "react";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
+import Link from "next/link";
 import { cn } from "@/utils/cn";
 import {
   IconBrandGithub,
@@ -58,6 +59,7 @@ export function SignupFormDemo() {
             </span>
             <BottomGradient />
           </button>
+          <Link href="https://github.com/developperin">
           <button
             className=" relative group/btn flex space-x-2 items-center justify-start px-4 w-full text-black rounded-md h-10 font-medium shadow-input bg-gray-50 dark:bg-zinc-900 dark:shadow-[0px_0px_1px_1px_var(--neutral-800)]"
             type="submit"
@@ -68,6 +70,7 @@ export function SignupFormDemo() {
             </span>
             <BottomGradient />
           </button>
+          </Link>
 
         </div>
       </form>
