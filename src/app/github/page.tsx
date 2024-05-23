@@ -1,13 +1,14 @@
-import { TypewriterEffectSmoothDemo } from "@/components/TypewriterEffectSmoothDemo";
-import { LampDemo } from "@/components/lampexample";
+
+
+
+import { HeroScrollDemo } from "@/components/tab";
 import React from "react";
 
 
 function SkillPage() {
   return (
     <>
-      <LampDemo></LampDemo>
-      
+  <HeroScrollDemo/>
     </>
   );
 }
