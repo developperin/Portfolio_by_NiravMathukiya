@@ -1,14 +1,11 @@
-
-
-
-import { HeroScrollDemo } from "@/components/tab";
+// import { HeroScrollDemo } from "@/components/tab";
 import React from "react";
 
 
 function SkillPage() {
   return (
     <>
-  <HeroScrollDemo/>
+  {/* <HeroScrollDemo/> */}
     </>
   );
 }
