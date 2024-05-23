@@ -11,7 +11,7 @@ export function HeroScrollDemo() {
       <ContainerScroll 
         titleComponent={
           <div className="text-center">
-            <h1 className="text-4xl font-semibold text-black dark:text-black">
+            <h1 className="text-4xl font-semibold text-black dark:text-white">
               Nirav Mathukiya <br />
               <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none">
                 Git Hub
