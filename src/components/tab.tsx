@@ -25,7 +25,7 @@ export function HeroScrollDemo() {
                 <Image src={j2} alt="good" width={100} height={100}></Image>
                 <div className="text-slate-100 ">
                     <p>Nirav Mathukiya</p>
-                    <p className="text-sm">Hello, I'm Nirav Mathukiya !!! 🌐 As a passionate web developer</p>
+                    <p className="text-sm">Hello, I am Nirav Mathukiya !!! 🌐 As a passionate web developer</p>
                     </div>
             </div>
          <Button
